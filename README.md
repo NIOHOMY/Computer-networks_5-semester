@@ -10,7 +10,7 @@
 Задайте для ПК IP адреса из сети 192.168.0.0 с маской 255.255.255.0.
 Проверить работоспособность всех устройств. Пояснить прохождение пакетов по сети.
 ```
-![image](https://github.com/NIOHOMY/Computer-networks_5-semester/CN/imgs/cn1.png)
+![image](https://github.com/NIOHOMY/Computer-networks_5-semester/raw/main/CN/imgs/cn1.png)
 
 ## Задание № 2
 ```
@@ -20,7 +20,7 @@
 Добавить не менее 3 рабочих станций, которые работают по Wi-Fi.
 Провести настройку сети, проверить работоспособность и объяснить прохождения пакетов при работе. 
 ```
-![image](https://github.com/NIOHOMY/Computer-networks_5-semester/CN/imgs/cn2.png)
+![image](https://github.com/NIOHOMY/Computer-networks_5-semester/raw/main/CN/imgs/cn2.png)
 
 ## Задание № 3
 ```
@@ -31,6 +31,6 @@
 Все маршрутизаторы должны использовать динамическую маршрутизацию (протокол RIP). Настроить службы DNS, Email, HTTP. 
 Провести настройку сети, проверить работоспособность и объяснить прохождения пакетов при работе.
 ```
-![image](https://github.com/NIOHOMY/Computer-networks_5-semester/CN/imgs/cn3.png)
+![image](https://github.com/NIOHOMY/Computer-networks_5-semester/raw/main/CN/imgs/cn3.png)
 
 ## Задание № 4
